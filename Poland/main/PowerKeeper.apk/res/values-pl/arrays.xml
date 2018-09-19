@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_groups">
+        <item>Użytkownika</item>
+        <item>Oszczędzanie baterii</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Domyślny tryb kontroli temperatury</item>
+        <item>Tryb wydajności</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Priorytet dla kontroli temperatury</item>
+        <item>Priorytet dla wydajności</item>
+        <item>Nie działa w trybie Ekstremalnego oszczędzania</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Wydajny</item>
+        <item>Zrównoważony</item>
+    </string-array>
+    <string-array name="pc_manage_active_app_items">
+        <item>Przestaw aplikacje w tryb uśpienia</item>
+        <item>Zachowuj energię</item>
+    </string-array>
+    <string-array name="hmode_app_classify1">
+        <item>Własne</item>
+        <item>Oszczędzanie baterii</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Aktywne aplikacje</item>
+        <item>Nieaktywne aplikacje</item>
+    </string-array>
+    <string-array name="emode_app_groups">
+        <item>Aplikacje systemowe</item>
+        <item>Pozostałe aplikacje</item>
+        <item>Wybrane aplikacje</item>
+    </string-array>
+</resources>
