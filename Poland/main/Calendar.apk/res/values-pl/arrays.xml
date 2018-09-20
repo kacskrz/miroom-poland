@@ -160,6 +160,13 @@
         <item>2 dni przed</item>
         <item>1 tydzień przed</item>
     </string-array>
+    <string-array name="edit_event_dislike">
+        <item>Brak typu wydarzenia, który chciałem utworzyć</item>
+        <item>Więcej ustawień</item>
+        <item>Nie można ustawić niektórych opcji</item>
+        <item>Po prostu się rozejrzyj</item>
+        <item>"Nie powiem"</item>
+    </string-array>
     <string-array name="english_premium_league">
         <item>4</item>
         <item>@string/english_premium_league</item>
