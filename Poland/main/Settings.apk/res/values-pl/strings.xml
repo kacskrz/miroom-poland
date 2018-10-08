@@ -126,6 +126,7 @@
   <string name="activity_list_empty">Nie znaleziono pasujących działań.</string>
   <string name="activity_not_found">Aplikacja nie jest zainstalowana na telefonie.</string>
   <string name="activity_picker_label">Wybierz działanie</string>
+  <string name="activity_title_apps_manager">Aplikacje</string>
   <string name="ad_service">Usługi reklam</string>
   <string name="adb_keys_warning_message">Unieważnić dostęp do debugowania USB dla wszystkich komputerów której wcześniej zostały autoryzowane?</string>
   <string name="adb_warning_message">Debugowanie USB jest przeznaczone wyłącznie do celów programistycznych. Użyj go do kopiowania danych między komputerem a urządzeniem, instalowania aplikacji w urządzeniu bez powiadomień i odczytywania danych dziennika.</string>
@@ -370,6 +371,7 @@
   <string name="audio_files_title">Pliki audio</string>
   <string name="audio_profile_settings_title">Profile dźwięku</string>
   <string name="audio_record_proc_title">Eliminowanie szumu</string>
+  <string name="auto_backup_user_data">Aplikacje</string>
   <string name="auto_brightness_default_title">Domyślna</string>
   <string name="auto_brightness_disclaimer">Dostosowuj poziom jasności do oświetlenia. Gdy ta funkcja jest włączona, nadal możesz tymczasowo korygować jasność.</string>
   <string name="auto_brightness_high_title">Wysoka</string>
@@ -1917,7 +1919,12 @@
   <string name="gadget_wifi">Wi‑Fi</string>
   <string name="gallery_privacy_password_role_instruction">Twoje prywatne zdjęcia będą przechowywane tutaj.</string>
   <string name="game_controller_settings_category">Kontroler gier</string>
+  <string name="game_mode_cta_dialog_agree">Zgadzam się</string>
+  <string name="game_mode_cta_dialog_cancel">Anuluj</string>
+  <string name="game_mode_cta_dialog_message">Tryb gracza wymaga łączności z Internetem w celu poprawnego działania. Zgadzasz się na to?</string>
+  <string name="game_mode_cta_dialog_title">Wymagane uprawnienia</string>
   <string name="game_mode_settings">Tryb gracza</string>
+  <string name="game_mode_summary">Zoptymalizuj działanie urządzenia specjalnie pod gry, ograniczając synchronizację i łączność z siecią dla innych aplikacji.</string>
   <string name="game_storage_settings">Gry</string>
   <string name="gesture_preference_summary">Sterowanie telefonem za pomocą krótkich gestów</string>
   <string name="gesture_preference_title">Gesty</string>
@@ -2226,6 +2233,7 @@
   <string name="local_backup_password_toast_validation_failure">Nie udało się ustawić hasła kopii</string>
   <string name="local_backup_section_summary">Tworzy kopie zapasowe ustawień systemowych, kont telefonu i danych aplikacji</string>
   <string name="local_backup_section_title">Lokalne kopie zapasowe</string>
+  <string name="local_select_userapp">Aplikacje</string>
   <string name="locale_default">Domyślnie</string>
   <string name="locale_not_translated">Może nie być dostępny w niektórych aplikacjach</string>
   <string name="locale_remove_menu">Usuń</string>
@@ -2433,6 +2441,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="login_account_dialog_message">Zaloguj się za pomocą konta Xiaomi i włącz synchronizację z Chmurą.</string>
   <string name="login_account_dialog_title">Zaloguj się za pomocą konta Xiaomi</string>
   <string name="login_action">Zaloguj się</string>
+  <string name="long_press_AI_button">Dotknij i przytrzymaj przycisk AI</string>
   <string name="long_press_back_key">Dotknij i przytrzymaj przycisk Wstecz</string>
   <string name="long_press_buttom_key">Dotknij i przytrzymaj przycisk Ekran główny na ekranie blokady</string>
   <string name="long_press_home_key">Dotknij i przytrzymaj przycisk Ekranu głównego</string>
@@ -4573,6 +4582,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Wybudzenie Trackballem</string>
   <string name="traffic_none">Żaden</string>
+  <string name="trans_detail_sys_data_list_title">Aplikacje systemowe</string>
   <string name="transition_animation_scale_title">Skala przemiany animacji</string>
   <string name="translation_contributors_title">Współtwórcy</string>
   <string name="trusted_credentials">Zaufane dane uwierzytelniające</string>
@@ -5817,4 +5827,18 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
 Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie Twojej lokalizacji, skorzystanie z sieci komórkowej i dostęp do kontaktów. Czy zgadzasz się na to?"</string>
   <string name="sos_privacy_dialog_title">Warunki użytkowania</string>
   <string name="talkback_watermark_enable">Znak wodny TalkBack</string>
+  <string name="ai_settings_double_click_category">Dwuklik przycisku AI</string>
+  <string name="ai_settings_double_click_title">Dwuklik</string>
+  <string name="ai_settings_long_press_des">Długo przytrzymaj przycisk AI i powiedz coś do Asystenta Google, aby uzyskać odpowiedź.</string>
+  <string name="ai_settings_single_click_category">Wciśnięcie przycisku AI</string>
+  <string name="ai_settings_single_click_title">Wciśnięcie</string>
+  <string name="child_mode_settings">Kontrola rodzicielska</string>
+  <string name="dangerous_option">Opcje programistyczne dużego ryzyka</string>
+  <string name="dangerous_option_hint">%1$s jest włączone. Dotknij, aby zmienić to ustawienie.</string>
+  <string name="dangerous_option_hint_title">Włączona jest ryzykowna funkcja</string>
+  <string name="gxzw_dialog_message">"Aby móc normalnie używać czytnika linii papilarnych, nie używaj szkieł ani innej ochrony ekranu. Jeśli uważasz, że nadal jest konieczne zabezpieczenie ekranu, wybierz coś spośród kompatybilnych z czytnikiem opcji."</string>
+  <string name="gxzw_dialog_not_show_again">"Nie pokazuj ponownie"</string>
+  <string name="gxzw_dialog_ok">Rozumiem</string>
+  <string name="gxzw_dialog_title">O czytniku linii papilarnych w ekranie</string>
+
 </resources>
