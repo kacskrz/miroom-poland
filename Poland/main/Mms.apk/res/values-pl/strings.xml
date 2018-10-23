@@ -5,7 +5,7 @@
   <string name="activity_not_found_uri">Brak aplikacji do zakończenia tej akcji</string>
   <string name="add_attachment">Dodaj załączniki</string>
   <string name="add_contact">vCard</string>
-  <string name="add_miui_contact">Karta Mi</string>
+  <string name="add_miui_contact">Kontakt</string>
   <string name="add_music">Dodaj muzykę</string>
   <string name="add_number_to_sender">Dodaj numer do \"%s\"</string>
   <string name="add_picture">Dodaj zdjęcie</string>
@@ -482,6 +482,7 @@
   <string name="prvate_contact">Prywatne kontakty</string>
   <string name="quick_reply">Odp</string>
   <string name="rate_limit_surpassed">OK</string>
+  <string name="rcs_unavailable">"W tym momencie nie możesz użyć Wiadomości China Mobile. Karta SIM China Mobile nie jest Twoją domyślną kartą do danych."</string>
   <string name="received_at_time">Otrzymano: %1s</string>
   <string name="received_label">Otrzymano:</string>
   <string name="recipient_editor_count_format">%d</string>
@@ -693,7 +694,7 @@
     <string name="delivery_toast_body_more">Wiadomość odebrana przez %1$s i %2$d inne osoby</string>
     <string name="dialog_message_mx">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń MIUI bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości Mi.</string>
     <string name="dialog_message_mx_rcs">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń MIUI i użytkowników China Mobile bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości Mi. Zgadzasz się?</string>
-    <string name="dialog_message_networking">Wiadomości muszą łączyć się z Internetem i uzyskiwać dostęp do Twojej lokalizacji, aby zapewnić Smart Wiadomości, rozpoznawanie Sender ID i inne usługi. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem tych usług. Zgadzasz się?</string>
+    <string name="dialog_message_networking">Aplikacja SMS musi używać Książki telefonicznej w celu dostarczania usługi rozpoznawania ID nadawcy. Aplikacje: SMS i Książka telefoniczna muszą połączyć się z Internetem i uzyskać dostęp do Twojej lokalizacji, aby działać normalnie. Zgadzasz się?</string>
     <string name="dialog_message_networking_mx">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń MIUI bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości Mi. Wiadomości muszą łączyć się z Internetem i uzyskiwać dostęp do Twojej lokalizacji, aby zapewnić Smart Wiadomości, rozpoznawanie Sender ID i inne usługi. Zgadzasz się?</string>
     <string name="dialog_message_networking_mx_rcs">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń MIUI i użytkowników China Mobile bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości Mi. Wiadomości muszą łączyć się z Internetem i uzyskiwać dostęp do Twojej lokalizacji, aby zapewnić Smart Wiadomości, rozpoznawanie Sender ID i inne usługi. Zgadzasz się?</string>
     <string name="dialog_message_networking_rcs">China Mobile Messaging umożliwia wysyłanie wiadomości do innych użytkowników China Mobile bez ponoszenia opłat. Przed użyciem China Mobile Messaging musisz wyrazić zgodę na \"%1$s\" i \"%2$s\". Wiadomości muszą łączyć się z Internetem i uzyskiwać dostęp do Twojej lokalizacji, aby zapewnić Smart Wiadomości, rozpoznawanie Sender ID i inne usługi. Zgadzasz się?</string>
