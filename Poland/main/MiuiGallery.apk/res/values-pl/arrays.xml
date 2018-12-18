@@ -4,45 +4,6 @@
         <item>Chłopiec</item>
         <item>Dziewczynka</item>
     </string-array>
-    <string-array name="collage_month">
-        <item>Sty.</item>
-        <item>Luty</item>
-        <item>Mar.</item>
-        <item>Kwi.</item>
-        <item>Maj</item>
-        <item>Cze.</item>
-        <item>Lip.</item>
-        <item>Sie.</item>
-        <item>Wrz.</item>
-        <item>Paź.</item>
-        <item>Lis.</item>
-        <item>Gru.</item>
-    </string-array>
-    <string-array name="owner_relation">
-        <item>Ojciec</item>
-        <item>Mama</item>
-        <item>Dziadek (ze strony ojca)</item>
-        <item>Babcia (ze strony ojca)</item>
-        <item>Dziadek (ze strony matki)</item>
-        <item>Babcia (ze strony matki)</item>
-    </string-array>
-    <string-array name="relation_with_me">
-        <item>Ja</item>
-        <item>Dziecko</item>
-        <item>Rodzina</item>
-        <item>Współpracownicy</item>
-        <item>Koledzy z klasy</item>
-        <item>Przyjaciele</item>
-        <item>Niepogrupowane</item>
-    </string-array>
-    <string-array name="sharer_relation_addressive">
-        <item>Tata</item>
-        <item>Mama</item>
-        <item>Dziadek (ze strony ojca)</item>
-        <item>Babcia (ze strony ojca)</item>
-        <item>Dziadek (ze strony matki)</item>
-        <item>Babcia (ze strony matki)</item>
-    </string-array>
     <string-array name="card_last_week_day">
      <item>Poprzedni poniedziałek</item>
      <item>Poprzedni wtorek</item>
@@ -80,17 +41,34 @@
      <item>Poprzedni listopad</item>
      <item>Poprzedni grudzień</item>
   </string-array>
+    <string-array name="owner_relation">
+        <item>Ojciec</item>
+        <item>Mama</item>
+        <item>Dziadek (od ojca)</item>
+        <item>Babcia (od ojca)</item>
+        <item>Dziadek (od matki)</item>
+        <item>Babcia (od matki)</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Ja</item>
+        <item>Dzieci</item>
+        <item>Rodzina</item>
+        <item>Znajomi</item>
+        <item>Koledzy z klasy</item>
+        <item>Przyjaciele</item>
+        <item>Nieprzydzielone</item>
+    </string-array>
   <string-array name="season_last_year">
      <item>Ostatniej wiosny</item>
      <item>Ostatniego lata</item>
      <item>Ostatniej jesieni</item>
      <item>Ostatniej zimy</item>
   </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Przenieś</item>
-        <item>Skopiuj</item>
-        <item>Anuluj</item>
-    </string-array>
+  <string-array name="menu_copy_or_move">
+     <item>Przenieś</item>
+     <item>Skopiuj</item>
+     <item>Anuluj</item>
+  </string-array>
     <string-array name="month">
         <item>Styczeń</item>
         <item>Luty</item>
@@ -127,8 +105,8 @@
     </string-array>
     <string-array name="weekend_title">
         <item>Ostatnie weekendy</item>
-        <item>Godne zapamiętania</item>
+        <item>Dni do zapamiętania</item>
         <item>Codzienne zdarzenia</item>
-        <item>Zwykłe oraz specjalne</item>
+        <item>Zwykłe i specjalne</item>
     </string-array>
 </resources>
