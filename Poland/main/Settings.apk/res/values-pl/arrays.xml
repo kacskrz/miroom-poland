@@ -282,6 +282,7 @@
     <item>Audio Qualcomm® aptX™</item>
     <item>Audio Qualcomm® aptX™ HD</item>
     <item>LDAC</item>
+	<item>Adaptacyjne audio Qualcomm® aptX™</item>
     <item>Włączenie opcjonalnych kodeków</item>
     <item>Wyłączenie opcjonalnych kodeków</item>
   </string-array>
@@ -292,8 +293,15 @@
     <item>Audio Qualcomm® aptX™</item>
     <item>Audio Qualcomm® aptX™ HD</item>
     <item>LDAC</item>
+	<item>Adaptacyjne audio Qualcomm® aptX™</item>
     <item>Włącz opcjonalne kodeki</item>
     <item>Wyłącz opcjonalne kodeki</item>
+  </string-array>
+  <string-array name="bluetooth_audio_active_device_summaries">
+    <item></item>
+    <item>" | Aktywne"</item>
+    <item>" | Aktywne (media)"</item>
+    <item>" | Aktywne (telefon)"</item>
   </string-array>
   <string-array name="bluetooth_visibility_timeout_entries">
     <item>2 min</item>
